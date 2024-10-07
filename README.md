@@ -7,3 +7,5 @@
 ![overview](figures/overview.png)
 ### 损失函数
 ![loss](figures/loss.png)
+### 公式
+![公式](figures/formual.png)
